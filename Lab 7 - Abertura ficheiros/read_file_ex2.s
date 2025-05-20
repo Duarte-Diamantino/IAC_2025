@@ -2,7 +2,7 @@
 
 buffer_input_int:  .zero 3136
 buffer_input_byte: .zero 796
-file_input:        .string "C:/Users/Duarte/Downloads/classifier-files/classifier-files/input-images/ascii-pgm/output0.pgm"
+file_input:        .string "C:/Users/Duarte/Documents/GitHub/IAC_2025/Proj 2/classifier-files/input-images/ascii-pgm/output0.pgm"
 
 .text
 
