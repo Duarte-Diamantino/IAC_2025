@@ -3,7 +3,7 @@
 buffer_input:  .zero 14
 null:          .string ""
 
-file_input:     .string "txt/mensagem.txt"
+file_input:     .string "C:/Users/Duarte/Documents/GitHub/IAC_2025/Proj 2/classifier-files/input-images/ascii-pgm/mensagem.txt"
 
 .text
 
