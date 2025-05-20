@@ -3,7 +3,7 @@
 buffer_input:  .zero 14
 null:          .string ""
 
-file_input:     .string "C:/Users/Duarte/Documents/GitHub/IAC_2025/Proj 2/classifier-files/input-images/ascii-pgm/mensagem.txt"
+file_input:     .string "C:/Users/Duarte/Documents/GitHub/IAC_2025/Lab 7 - Abertura ficheiros/mensagem.txt"
 
 .text
 
@@ -88,3 +88,4 @@ exit_with_error:
   li a7, 93            # Exi system call
   ecall                # Terminate program
 
+        
