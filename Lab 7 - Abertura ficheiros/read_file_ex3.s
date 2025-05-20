@@ -5,7 +5,7 @@ buffer_m1_byte: .zero 1280
 
 
 
-file_m1:      .string "C:/Users/Duarte/Downloads/classifier-files/classifier-files/weight-matrices/m1_bin.txt"
+file_m1:      .string "C:/Users/Duarte/Documents/GitHub/IAC_2025/Proj 2/classifier-files/weight-matrices/m1.bin"
 
 
 .text
